@@ -1,0 +1,4 @@
+main.c:64:6:Send_Text	8	static
+main.c:134:6:SystemClock_Config	232	static
+main.c:81:5:main	64	static
+main.c:368:6:Error_Handler	0	static
